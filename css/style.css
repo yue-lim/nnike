@@ -6,6 +6,7 @@ img {max-width: 100%; vertical-align: middle;}
 ul {list-style-type: none;}
 .cf:after,
 .cf:before {content: ""; display: block; clear: both;}
+header, section, figure, video {display: block;}
 
 body {width: 100%; height: 100%; position: fixed;
     background: #111; color:#bbb;
